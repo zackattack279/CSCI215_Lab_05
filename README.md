@@ -3,7 +3,7 @@ DOM manipulation
 
 Name: _______________________________________
 
-## DUE: 8 Oct 2017 @ 11:59 pm
+## DUE: 15 Oct 2017 @ 11:59 pm
 
 ## Instructions:
 In this lab we'll use JavaScript to access to the DOM and dynamically add element, attribute, and text nodes. After completing each task result will look like the image in _____.
